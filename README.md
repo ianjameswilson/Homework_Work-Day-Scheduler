@@ -1,4 +1,4 @@
-# Homework_Work-Day-Scheduler
+# Work-Day-Scheduler
 
 https://ianjameswilson.github.io/Homework_Work-Day-Scheduler/
 
