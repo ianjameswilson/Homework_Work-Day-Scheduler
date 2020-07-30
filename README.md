@@ -1,6 +1,6 @@
 # Work-Day-Scheduler
 
-https://ianjameswilson.github.io/Homework_Work-Day-Scheduler/
+https://ianjameswilson.github.io/Work-Day-Scheduler/
 
 User Story:
 AS AN employee with a busy schedule
